@@ -38,3 +38,5 @@ Pixel XL with lollipop, Marshmallow and Nougat.
 * Location Services need to be enabled for scanning from android 6.0 Marshmallow and in addition, 
 runtime permission ACCESS_COARSE_LOCATION is also required.
 # Dynastream_Android
+# Smart_Garment_app
+# Smart_Garment_app
